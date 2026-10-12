@@ -1,0 +1,7 @@
+streamlit
+streamlit-folium>=0.15
+folium
+numpy
+pandas
+pillow
+rasterio

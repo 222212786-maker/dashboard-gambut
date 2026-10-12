@@ -1,0 +1,13 @@
+layer,id,id_kelas,nama_kelas,piksel,luas_ha
+gt,1,0,Hutan,35064239,350642.39
+gt,2,1,Perkebunan dan Pertanian Lahan Kering,4692187,46921.87
+gt,3,2,Semak/Belukar,14116480,141164.8
+gt,4,3,Lahan Terbuka dan Terbangun,160265,1602.65
+s1s2,1,0,Hutan,36279278,362792.78
+s1s2,2,1,Perkebunan dan Pertanian Lahan Kering,5795901,57959.01
+s1s2,3,2,Semak/Belukar,16054810,160548.1
+s1s2,4,3,Lahan Terbuka dan Terbangun,146050,1460.5
+s2,1,0,Hutan,34413446,344134.46
+s2,2,1,Perkebunan dan Pertanian Lahan Kering,6225582,62255.82
+s2,3,2,Semak/Belukar,17486435,174864.35
+s2,4,3,Lahan Terbuka dan Terbangun,150576,1505.76
